@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VectorVest.Interview.Api.Client\VectorVest.Interview.Api.Client.csproj" />
+  </ItemGroup>
+
+
+</Project>
